@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dada Joshua</h1>
-<h3 align="center">Data Engineer (Intern)|| Data Analyst</h3>
+<h3 align="center"> Junior Data Engineer|| Data Analyst</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
